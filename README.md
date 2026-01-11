@@ -1,8 +1,8 @@
 # Gemini Business 自动注册工具
 
 邮箱注册功能来自： DuckMail https://linux.do/u/syferie/summary
-
-
+注册成功后的登录地址：https://business.gemini.google/
+邮件登录地址：https://ducktempmail.netlify.app/
 
 ## 功能特性
 
@@ -145,5 +145,6 @@ BASE_URL = "https://api.duckmail.sbs"
 ## 许可证
 
 MIT
+
 
 
