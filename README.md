@@ -1,3 +1,4 @@
+更新了，可以下载旁边的压缩包，GIT一键部署不更新了。后续更新在论坛的另一个作者，已在原贴表明。
 # Gemini Business 自动注册工具
 
 邮箱注册功能来自： DuckMail https://linux.do/u/syferie/summary
@@ -145,6 +146,7 @@ BASE_URL = "https://api.duckmail.sbs"
 ## 许可证
 
 MIT
+
 
 
 
